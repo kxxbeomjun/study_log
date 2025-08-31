@@ -12,7 +12,8 @@ Personal study log archiving summaries and notes of recent research papers.
 | Accept | Title | Field | Keyword | Paper | Code | My Study |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | ArXiv 2025 (T-ITS summit) | RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation | BEV Segmentation | Residual, Autoregressive | [ArXiv](https://arxiv.org/pdf/2505.06515) | - | [pdf](2025%20papers/ArXiv_2025_RESAR-BEV.pdf) |
-| CVPR 2025 | Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting | BEV Segmentation | Gaussian, Depth Uncertainty | [ArXiv](https://arxiv.org/abs/2504.01957) | [Git](https://github.com/HCIS-Lab/GaussianLSS) | [pdf](2024%20papers/CVPR_2025_GaussianLSS.pdf) |
+| CVPR 2025 | Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting | BEV Segmentation | Depth Uncertainty, Gaussian | [ArXiv](https://arxiv.org/abs/2504.01957) | [Git](https://github.com/HCIS-Lab/GaussianLSS) | [pdf](2024%20papers/CVPR_2025_GaussianLSS.pdf) |
+| CVPR 2025 | GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction | 3D Occupancy Prediction | World model, Gaussian | [ArXiv](https://arxiv.org/abs/2412.10373) | [Git](https://github.com/zuosc19/GaussianWorld) | [pdf](2024%20papers/CVPR_2025_GaussianWorld.pdf) |
 
 
 ---
