@@ -14,7 +14,8 @@ Personal study log archiving summaries and notes of recent research papers.
 | ArXiv 2025 (TITS summit) | RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation | BEV Segmentation | Residual, Autoregressive | [ArXiv](https://arxiv.org/pdf/2505.06515) | - | [pdf](2025%20papers/ArXiv_2025_RESAR-BEV.pdf) |
 | CVPR 2025 | Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting | BEV Segmentation | Depth Uncertainty, Gaussian | [ArXiv](https://arxiv.org/abs/2504.01957) | [Git](https://github.com/HCIS-Lab/GaussianLSS) | [pdf](2024%20papers/CVPR_2025_GaussianLSS.pdf) |
 | CVPR 2025 | GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction | 3D Occupancy Prediction | World model, Gaussian | [ArXiv](https://arxiv.org/abs/2412.10373) | [Git](https://github.com/zuosc19/GaussianWorld) | [pdf](2024%20papers/CVPR_2025_GaussianWorld.pdf) |
-| WACV 2025 | Comparative Knowledge Distillation | Knowledge Distillation | Vectorization | [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Xu_Comparative_Knowledge_Distillation_WACV_2025_paper.pdf) | - | [pdf](2024%20papers/WACV_2025_Epipolar%20Attention%20Field%20Transformers.pdf) |
+| WACV 2025 | Comparative Knowledge Distillation | Knowledge Distillation | Vectorization | [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Xu_Comparative_Knowledge_Distillation_WACV_2025_paper.pdf) | - | [pdf](2024%20papers/WACV_2025_Comparative%20Knowledge%20Distillation.pdf) |
+| WACV 2025 | Epipolar Attention Field Transformers for Bird’s Eye View Semantic Segmentation | BEV Map Segmentation | Epipolar Attention | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10943702) | - | [pdf](2024%20papers/WACV_2025_Epipolar%20Attention%20Field%20Transformers.pdf) |
 
 
 
