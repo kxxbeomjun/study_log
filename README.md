@@ -54,5 +54,6 @@ Personal study log archiving summaries and notes of recent research papers.
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | ICCV 2023 | MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception | 3D Perception | Ring & Ray Decomposition | [ArXiv](https://arxiv.org/abs/2211.10593) | - | [pdf](2023%20%26%20ealiear%20papers/ICCV_2023_MatrixVT.pdf) |
 | ICCV 2023 | UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation | BEV Representation | Tokenizer, BEV Pooling | [ArXiv](https://arxiv.org/abs/2308.07732) | [Git](https://github.com/Haiyang-W/UniTR) | [pdf](2023%20%26%20ealiear%20papers/ICCV_2023_UniTR.pdf) |
+| ECCV 2022 | 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds | Semantic Segmentation | KD, Data Fusion | [ArXiv](https://arxiv.org/pdf/2207.04397) | [Git](https://github.com/yanx27/2DPASS) | [pdf](2023%20%26%20ealiear%20papers/ECCV_2022_2DPASS.pdf) |
 | ICLR 2021 | Deformable DETR: Deformable Transformers for End-to-End Object Detection | Transformer | Deformable DETR | [ArXiv](https://arxiv.org/pdf/2010.04159) | [Git](https://github.com/fundamentalvision/Deformable-DETR) | [pdf](2023%20%26%20ealiear%20papers/ICLR_2021_Deformable_DETR.pdf) |
 
