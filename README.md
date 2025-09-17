@@ -18,7 +18,7 @@ Personal study log archiving summaries and notes of recent research papers.
 | WACV 2025 | GaussianBeV : 3D Gaussian Representation meets Perception Models for BeV Segmentation | 3D Occupancy Prediction | BEV, Gaussian | [Paper](https://arxiv.org/pdf/2407.14108) | - | [pdf](2025%20papers/WACV_2025_GaussianBEV.pdf) |
 | WACV 2025 | Comparative Knowledge Distillation | Knowledge Distillation | Vectorization | [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Xu_Comparative_Knowledge_Distillation_WACV_2025_paper.pdf) | - | [pdf](2025%20papers/WACV_2025_Comparative%20Knowledge%20Distillation.pdf) |
 | WACV 2025 | Epipolar Attention Field Transformers for Bird’s Eye View Semantic Segmentation | BEV Map Segmentation | Epipolar Attention | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10943702) | - | [pdf](2025%20papers/WACV_2025_Epipolar%20Attention%20Field%20Transformers.pdf) |
-| WACV 2025 | HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning | HD map construction | Height Prediction in BEV | [ArXiv](https://arxiv.org/pdf/2411.01408)) | [Git](https://github.com/adasfag/HeightMapNet) | [pdf](2025%20papers/WACV_2025_HeightMapNet.pdf) |
+| WACV 2025 | HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning | HD map construction | Height Prediction | [ArXiv](https://arxiv.org/pdf/2411.01408)) | [Git](https://github.com/adasfag/HeightMapNet) | [pdf](2025%20papers/WACV_2025_HeightMapNet.pdf) |
 | WACV 2025 | PrevPredMap: Exploring Temporal Modeling with Previous Predictions for Online Vectorized HD Map Construction | HD map construction | Temporal Fusion | [ArXiv](https://arxiv.org/pdf/2407.17378) | [Git](https://github.com/pnnnnnnn/PrevPredMap) | [pdf](2025%20papers/WACV_2025_PrevPredMap.pdf) |
 
 
