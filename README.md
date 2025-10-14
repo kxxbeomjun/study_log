@@ -11,7 +11,7 @@ Personal study log archiving summaries and notes of recent research papers.
 ### 2025
 | Accept | Title | Field | Keyword | Paper | Code | My Study |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| AAAI 2025 (Oral) | Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecastingand Planning via World Models for Autonomous Driving | E2E AD | World model | [Paper](https://arxiv.org/pdf/2408.14197) | [Git](https://drive-occworld.github.io/) | [pdf](2024%20papers/AAAI_2024_VLM2Scene.pdf) |
+| AAAI 2025 (Oral) | Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecastingand Planning via World Models for Autonomous Driving | E2E AD | World model | [Paper](https://arxiv.org/pdf/2408.14197) | [Git](https://drive-occworld.github.io/) | [pdf](2025%20papers/AAAI_2025_Driving%20in%20the%20Occupancy%20World.pdf) |
 | ArXiv 2025 (TITS summit) | RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation | BEV Segmentation | Residual, Autoregressive | [ArXiv](https://arxiv.org/pdf/2505.06515) | - | [pdf](2025%20papers/ArXiv_2025_RESAR-BEV.pdf) |
 | CVPR 2025 | Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting | BEV Segmentation | Depth Uncertainty, Gaussian | [ArXiv](https://arxiv.org/abs/2504.01957) | [Git](https://github.com/HCIS-Lab/GaussianLSS) | [pdf](2025%20papers/CVPR_2025_GaussianLSS.pdf) |
 | CVPR 2025 | GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction | 3D Occupancy Prediction | World model, Gaussian | [ArXiv](https://arxiv.org/abs/2412.10373) | [Git](https://github.com/zuosc19/GaussianWorld) | [pdf](2025%20papers/CVPR_2025_GaussianWorld.pdf) |
