@@ -2,7 +2,7 @@
 Personal study log archiving summaries and notes of recent research papers.
 
 ## Notice
-1. My primary research interest lies in **Autonomous Driving Perception**, particularly focusing on **BEV networks, VLM, VLA, LLM, and World Models etc.**.  
+1. My primary research interest lies in **Autonomous Driving Perception**, particularly focusing on **BEV networks, VLM, VLA, and World Models etc.**.  
 2. I am also interested in **auxiliary techniques that can enhance perception models** (e.g., **Knowledge Distillation**, **Diffusion Models**, etc.).    
 3. I continuously follow recent research in these areas, summarizing and organizing key insights in this repository.  
 
